@@ -104,7 +104,7 @@ aside {
 /* FOOTER */
 
 .footer {
-  height: 15%;
+  height: 150px;
   margin-top: 10px;
   width: 100%;
   background-color: var(--secondary-color);
