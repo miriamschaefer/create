@@ -4,7 +4,7 @@ Pequeño ejercicio de maquetación responsive para Create. El principal goal del
 
 ![Maquetación móvil](https://github.com/miriamschaefer/create/blob/main/imgs/mobile.gif?raw=true);
 
-Acto seguido, cuando terminé la maquetación mobile, seguí con la de tablet, donde añadí el `aside` que quedaba oculto en resoluciones menores a 500px. Decidí incluirlo debajo de la seción principal.
+Acto seguido, cuando terminé la maquetación mobile, seguí con la de tablet, donde añadí el `aside` que quedaba oculto en resoluciones menores a 500px. Decidí incluirlo debajo de la seción principal. Para poder ver bien el resultado, decidí añadir un par de `articles` más para ver si el scroll se hacía correctamente.
 
 ![Maquetación tablet y desk](https://github.com/miriamschaefer/create/blob/main/imgs/tablet-desk.gif?raw=true)
 
