@@ -224,7 +224,7 @@ aside {
 
   .main-section {
     width: 850px;
-    padding: 25px 25px 25px 25px;
+    padding: 25px 25px 50px 25px;
     background-color: var(--light-color);
   }
   .aside {
