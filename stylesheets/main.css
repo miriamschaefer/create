@@ -26,6 +26,7 @@ html {
 .wrapper {
   max-width: 1200px;
   margin: auto;
+  height: 100%;
 }
 
 .header {
@@ -216,6 +217,7 @@ aside {
     background-color: var(--background-color);
   }
   .main .wrapper {
+    height: 100%;
     display: flex;
     flex-direction: row;
   }
