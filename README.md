@@ -8,6 +8,6 @@ Acto seguido, cuando terminé la maquetación mobile, seguí con la de tablet, d
 
 ![Maquetación tablet y desk](https://github.com/miriamschaefer/create/blob/main/imgs/tablet-desk.gif?raw=true)
 
-Aunque es una prueba sencilla, tuve que ajustar algunos valores (márgenes, principalmente) que se mostraban diferente al desplegarla en Github Pages.
+Aunque es una prueba sencilla, tuve que ajustar algunos valores (márgenes, principalmente) que se mostraban diferente al desplegarla en Github Pages. Para crear las diferentes posiciones jugué con diferentes valores de `flexbox` en los diferentes _breakpoints_ dados. Me planteé usar `grid`, pero en mi opinión me resulta el movimiento más visual en flexbox. Además, intenté seguir la metodología BEM para dar nombre a las clases de cada elemento.
 
-¡Muchas gracias por vuestro tiempo!
+¡Muchas gracias por vuestro tiempo! 😊
