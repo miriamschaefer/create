@@ -72,6 +72,7 @@ html {
 
 .main-section {
   overflow-y: scroll;
+  margin-bottom: 135px;
 }
 
 /* ARTICLES */
@@ -104,8 +105,11 @@ aside {
 /* FOOTER */
 
 .footer {
-  height: 200px;
+  height: 130px;
   margin-top: 10px;
+  left: 0;
+  bottom: 0;
+  position: fixed;
   width: 100%;
   background-color: var(--secondary-color);
   color: var(--light-color);
@@ -181,8 +185,11 @@ aside {
 /* TABLET */
 
 @media all and (min-width: 500px) and (orientation: portrait) {
+  .main-section {
+    margin-bottom: 0;
+  }
   .aside {
-    margin: 25px 0 25px 0;
+    margin: 25px 0 140px 0;
     display: flex;
     justify-content: center;
   }
@@ -219,6 +226,7 @@ aside {
     width: 850px;
     padding: 25px 25px 25px 25px;
     background-color: var(--light-color);
+    margin-bottom: 50px;
   }
   .aside {
     width: 350px;
